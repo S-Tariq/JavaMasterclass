@@ -34,23 +34,28 @@ public class Main {
 
         // Uses constructor without parameters.
         BankAccount accountOne = new BankAccount();
-        accountOne.setAccountNo("1001");
+        accountOne.setAccountNo("28");
         accountOne.setName("Emma");
-        accountOne.setEmail("emma16@hotmail");
+        accountOne.setEmail("emma16@email");
         accountOne.setPhoneNo("07711");
         accountOne.setBalance(100);
         accountOne.printDetails();
 
-        // Uses constructor with parameters.
-        BankAccount accountTwo = new BankAccount("1234", "Harry",
-                "harry10@hotmail", "07123", 200);
+        // Uses constructor with all parameters.
+        BankAccount accountTwo = new BankAccount("34", "Harry",
+                "harry10@email", "07123", 200);
         accountTwo.printDetails();
 
-        // Creates transactions for accountOne and accountTwo.
+        // Uses constructor with some parameters.
+        BankAccount accountThree = new BankAccount("Ben","ben45@email","07859");
+        accountThree.printDetails();
+
+        // Creates transactions.
         System.out.println("\nTransaction details: ");
         accountOne.withdrawFunds(50);
         accountOne.depositFunds(20);
         accountTwo.depositFunds(100);
         accountTwo.withdrawFunds(70);
+        accountThree.depositFunds(120);
     }
 }

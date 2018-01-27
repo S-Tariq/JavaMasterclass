@@ -21,7 +21,7 @@ public class BankAccount {
     private double balance;
 
     public BankAccount() {
-        this("2002", "Dan", "dan12@hotmail", "07235", 500);
+        this("12", "Dan", "dan12@email", "07235", 500);
         printDetails();
         System.out.println("\nConstructor without parameters");
     }
@@ -33,6 +33,10 @@ public class BankAccount {
         this.email = email;
         this.phoneNo = phoneNo;
         this.balance = balance;
+    }
+
+    public BankAccount(String name, String email, String phoneNo) {
+        this("01", name, email, phoneNo, 10);
     }
 
     public void setAccountNo(String accountNo){
