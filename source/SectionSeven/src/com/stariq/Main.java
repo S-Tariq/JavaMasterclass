@@ -3,8 +3,9 @@ package com.stariq;
 public class Main {
 
     public static void main(String[] args) {
-        addCars();
-        addBankAccounts();
+        //addCars();
+        //addBankAccounts();
+        addVipCustomers();
     }
 
     // Experimenting with Car class.
@@ -57,5 +58,40 @@ public class Main {
         accountTwo.depositFunds(100);
         accountTwo.withdrawFunds(70);
         accountThree.depositFunds(120);
+
+        // Uses getters.
+        System.out.println("Customer " + accountThree.getName() +
+                "'s contact details are: " + accountThree.getEmail() +
+                " and " + accountThree.getPhoneNo());
+        System.out.println("Customer " + accountTwo.getName() +
+                "'s account number is " + accountTwo.getAccountNo() +
+                " and balance is " + accountTwo.getBalance());
+    }
+
+    // Experimenting with VipCustomer class.
+    public static void addVipCustomers(){
+
+        System.out.println("\n*****");
+
+        // Adds details to vip customers.
+        System.out.println("\nVip Customer details: ");
+
+        // Uses constructor with all initialisation within default constructor.
+        VipCustomer customerOne = new VipCustomer();
+        customerOne.printDetails();
+
+        // Uses constructor with some parameters and default value.
+        VipCustomer customerTwo = new VipCustomer("Bella", 250);
+        customerTwo.printDetails();
+
+        // Uses constructor with all parameters.
+        VipCustomer customerThree = new VipCustomer("Jane", 520, "jane7@email");
+        customerThree.printDetails();
+
+        // Uses getters.
+        System.out.println("Customer " + customerOne.getName() +
+                " has email address as " + customerOne.getEmail());
+        System.out.println("Customer " + customerTwo.getName() +
+                " has credit limit of " + customerTwo.getCreditLimit());
     }
 }
