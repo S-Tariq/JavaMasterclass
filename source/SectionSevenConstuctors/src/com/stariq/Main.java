@@ -8,7 +8,6 @@ public class Main {
         addVipCustomers();
     }
 
-    // Experimenting with Car class.
     public static void addCars(){
 
         System.out.println("\n*****");
@@ -17,7 +16,7 @@ public class Main {
         Car porsche = new Car();
         Car holden = new Car();
 
-        // Adds car details.
+        // Adds details to Car class.
         System.out.println("\nCar details: ");
         porsche.setModel("Carrera");
         holden.setModel("911");
@@ -25,12 +24,11 @@ public class Main {
         System.out.println("Model is " + holden.getModel());
     }
 
-    // Experimenting with BankAccount class.
     public static void addBankAccounts(){
 
         System.out.println("\n*****");
 
-        // Adds details to bank accounts.
+        // Adds details to BankAccount class.
         System.out.println("\nAccount details: ");
 
         // Uses constructor without parameters.
@@ -68,12 +66,11 @@ public class Main {
                 " and balance is " + accountTwo.getBalance());
     }
 
-    // Experimenting with VipCustomer class.
     public static void addVipCustomers(){
 
         System.out.println("\n*****");
 
-        // Adds details to vip customers.
+        // Adds details to VipCustomer class.
         System.out.println("\nVip Customer details: ");
 
         // Uses constructor with all initialisation within default constructor.
