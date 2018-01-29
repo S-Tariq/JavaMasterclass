@@ -19,9 +19,12 @@ public class Main {
 
         // Adds details to the PC class and makes use of methods from the objects created.
         PC thePC = new PC(theCase, theMonitor, theMotherboard);
-        thePC.getMonitor().drawPixelAt(1500, 1200, "red");
-        thePC.getMotherboard().loadProgram("Windows 1.0");
-        thePC.getTheCase().pressPowerButton();
-        
+        thePC.powerUp();
+
+        // Uses getters from the PC class.
+//        thePC.getMonitor().drawPixelAt(1500, 1200, "red");
+//        thePC.getMotherboard().loadProgram("Windows 1.0");
+//        thePC.getTheCase().pressPowerButton();
+
     }
 }
