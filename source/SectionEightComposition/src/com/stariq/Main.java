@@ -5,6 +5,25 @@ public class Main {
     public static void main(String[] args) {
         addPCs();
         addBedrooms();
+        addKitchens();
+    }
+
+    public static void addKitchens(){
+
+        System.out.println("\n*****");
+
+        // Adds details to Cupboard, Sink and Oven class.
+        Cupboard cupboard = new Cupboard(24,45);
+        Sink sink = new Sink("Stainless stain", "Silver");
+        Oven oven = new Oven(110);
+
+        // Adds details to Kitchen class and uses methods from different classes.
+        Kitchen kitchen = new Kitchen("Large", cupboard, sink, oven);
+        kitchen.clean();
+        kitchen.cook();
+        kitchen.getOven().increaseHeat();
+        kitchen.getSink().turnOn();
+        kitchen.getSink().turnOff();
     }
 
     public static void addBedrooms(){
