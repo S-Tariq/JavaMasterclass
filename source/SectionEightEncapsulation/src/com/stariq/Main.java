@@ -5,14 +5,26 @@ class Main {
     public static void main(String args[]) {
         addPlayers();
         addEnhancePlayers();
+        addPrinters();
+    }
 
+    public static void addPrinters(){
+
+        System.out.println("\n*****");
+
+        // Adds details to Printer class which involves encapsulation.
+        Printer printer = new Printer(75,false);
+        printer.fillToner(15);
+        System.out.println("Toner level: " + printer.getTonerLevel());
+        printer.printPages(15,false);
+        System.out.println("Pages printed: " + printer.getPagesPrinted());
     }
 
     public static void addEnhancePlayers(){
 
         System.out.println("\n*****");
 
-        // EnhancePlayer class used with encapsulation.
+        // Adds details to EnhancePlayer class which involves encapsulation.
         EnhancedPlayer enhancedPlayer = new EnhancedPlayer("Tariq", 200, "Sword");
         System.out.println("Initial health is " + enhancedPlayer.getHealth());
         enhancedPlayer.loseHealth(20);
@@ -23,7 +35,7 @@ class Main {
 
         System.out.println("\n*****");
 
-        // Player class used without encapsulation.
+        // Adds details to Player class which does not involve encapsulation.
         Player player = new Player();
         player.name = "Tariq";
         player.health = 20;
