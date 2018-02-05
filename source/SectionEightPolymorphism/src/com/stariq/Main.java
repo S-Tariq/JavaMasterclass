@@ -3,7 +3,37 @@ package com.stariq;
 public class Main {
 
     public static void main(String[] args) {
+        addMovies();
+        addCars();
+    }
 
+    public static void addCars(){
+
+        System.out.println("\n*****");
+
+        Car car = new Car("Car", 10);
+        System.out.println("\n" + car.startEngine() + "\n" +
+                car.accelerate() + "\n" + car.brake());
+
+        Coupe coupe = new Coupe();
+        System.out.println("\n" + coupe.startEngine() + "\n" +
+                coupe.accelerate() + "\n" + coupe.brake());
+
+        Convertible convertible = new Convertible();
+        System.out.println("\n" + convertible.startEngine() + "\n" +
+                convertible.accelerate() + "\n" + convertible.brake());
+
+        Crossover crossover = new Crossover();
+        System.out.println("\n" + crossover.startEngine() + "\n" +
+                crossover.accelerate() + "\n" + crossover.brake());
+
+    }
+
+    public static void addMovies(){
+
+        System.out.println("\n*****");
+
+        // Makes use of Movie class to get the name and plot.
         for(int i = 1; i < 11; i++){
             Movie movie = randomMovie();
             System.out.println("Movie #" + i + " : " + movie.getName() + "\n" +
