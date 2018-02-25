@@ -12,34 +12,50 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/stariq/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+            <state relative-caret-position="-168">
+              <caret line="82" column="0" lean-forward="true" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#266#267#0" expanded="true" />
-                <element signature="e#298#299#0" expanded="true" />
-                <element signature="e#2973#2981#0" expanded="true" />
-                <element signature="e#3092#3100#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GroceryList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/stariq/GroceryList.java">
+      <file leaf-file-name="Contact.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/stariq/Contact.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="47" lean-forward="false" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+            <state relative-caret-position="399">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding>
-                <element signature="e#135#143#0" expanded="true" />
-                <element signature="e#191#192#0" expanded="true" />
-                <element signature="e#228#229#0" expanded="true" />
-                <element signature="e#311#312#0" expanded="true" />
-                <element signature="e#1335#1336#0" expanded="true" />
-                <element signature="e#1389#1390#0" expanded="true" />
+                <element signature="e#242#243#0" expanded="true" />
+                <element signature="e#269#270#0" expanded="true" />
+                <element signature="e#303#304#0" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#404#405#0" expanded="true" />
+                <element signature="e#453#454#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MobilePhone.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/stariq/MobilePhone.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1827">
+              <caret line="87" column="0" lean-forward="true" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+              <folding>
+                <element signature="e#956#965#0" expanded="true" />
+                <element signature="e#1017#1018#0" expanded="true" />
+                <element signature="e#1051#1052#0" expanded="true" />
+                <element signature="e#2301#2302#0" expanded="true" />
+                <element signature="e#2350#2351#0" expanded="true" />
+                <element signature="e#2766#2767#0" expanded="true" />
+                <element signature="e#2810#2811#0" expanded="true" />
+                <element signature="e#3275#3276#0" expanded="true" />
+                <element signature="e#3326#3327#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -63,6 +79,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/stariq/GroceryList.java" />
+        <option value="$PROJECT_DIR$/src/com/stariq/Contacts.java" />
+        <option value="$PROJECT_DIR$/src/com/stariq/Contact.java" />
+        <option value="$PROJECT_DIR$/src/com/stariq/MobilePhone.java" />
         <option value="$PROJECT_DIR$/src/com/stariq/Main.java" />
       </list>
     </option>
@@ -88,8 +107,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -112,8 +129,10 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -188,13 +207,13 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32920355" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.59823006" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18230088" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.107964605" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -224,14 +243,69 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/stariq/Main.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stariq/Contact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stariq/MobilePhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="e#956#965#0" expanded="true" />
+            <element signature="e#1017#1018#0" expanded="true" />
+            <element signature="e#1051#1052#0" expanded="true" />
+            <element signature="e#2301#2302#0" expanded="true" />
+            <element signature="e#2350#2351#0" expanded="true" />
+            <element signature="e#2766#2767#0" expanded="true" />
+            <element signature="e#2810#2811#0" expanded="true" />
+            <element signature="e#3275#3276#0" expanded="true" />
+            <element signature="e#3326#3327#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stariq/GroceryList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="47" lean-forward="false" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+          <folding>
+            <element signature="e#135#143#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#1335#1336#0" expanded="true" />
+            <element signature="e#1389#1390#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stariq/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#2973#2981#0" expanded="true" />
-            <element signature="e#3092#3100#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -244,6 +318,7 @@
             <element signature="e#135#143#0" expanded="true" />
             <element signature="e#191#192#0" expanded="true" />
             <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
             <element signature="e#311#312#0" expanded="true" />
             <element signature="e#1335#1336#0" expanded="true" />
             <element signature="e#1389#1390#0" expanded="true" />
@@ -257,10 +332,6 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#2973#2981#0" expanded="true" />
-            <element signature="e#3092#3100#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -269,18 +340,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="452" column="13" lean-forward="false" selection-start-line="452" selection-start-column="13" selection-end-line="452" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/stariq/GroceryList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="47" lean-forward="false" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+        <state relative-caret-position="192">
+          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
           <folding>
             <element signature="e#135#143#0" expanded="true" />
             <element signature="e#191#192#0" expanded="true" />
             <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
             <element signature="e#311#312#0" expanded="true" />
             <element signature="e#1335#1336#0" expanded="true" />
             <element signature="e#1389#1390#0" expanded="true" />
@@ -290,14 +361,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/stariq/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        <state relative-caret-position="-168">
+          <caret line="82" column="0" lean-forward="true" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#2973#2981#0" expanded="true" />
-            <element signature="e#3092#3100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stariq/Contact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stariq/MobilePhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1827">
+          <caret line="87" column="0" lean-forward="true" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+          <folding>
+            <element signature="e#956#965#0" expanded="true" />
+            <element signature="e#1017#1018#0" expanded="true" />
+            <element signature="e#1051#1052#0" expanded="true" />
+            <element signature="e#2301#2302#0" expanded="true" />
+            <element signature="e#2350#2351#0" expanded="true" />
+            <element signature="e#2766#2767#0" expanded="true" />
+            <element signature="e#2810#2811#0" expanded="true" />
+            <element signature="e#3275#3276#0" expanded="true" />
+            <element signature="e#3326#3327#0" expanded="true" />
           </folding>
         </state>
       </provider>
