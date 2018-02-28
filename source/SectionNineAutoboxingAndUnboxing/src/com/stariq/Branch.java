@@ -43,8 +43,6 @@ public class Branch {
             Customer customer = customers.get(i);
             if (customer.getName().equals(name)) {
                 return customer;
-            } else {
-                return null;
             }
         }
         return null;

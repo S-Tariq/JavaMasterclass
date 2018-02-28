@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class Main {
 
     public static void main(String[] args) {
-        //addIntClass();
+        addIntClass();
         addBank();
     }
 
@@ -13,8 +13,50 @@ public class Main {
 
         System.out.println("\n*****");
 
+        Bank bank = new Bank("National Bank");
 
+        // Adding customer for London branch.
+        bank.addBranch("London");
+        bank.addCustomer("London","Sam", 90.50);
+        bank.addCustomer("London", "Anne", 45.23);
+        bank.addCustomer("London", "Emma", 78.12);
 
+        // Adding customer for Liverpool branch.
+        bank.addBranch("Liverpool");
+        bank.addCustomer("Liverpool", "Joe", 4578.09);
+        bank.addCustomer("Liverpool", "Tom", 57.0);
+        bank.addCustomer("Liverpool", "Megan", 98.0);
+
+        // Adding transactions for London branch.
+        bank.addTransaction("London", "Sam", 90.78);
+        bank.addTransaction("London", "Emma", 12.4);
+        bank.addTransaction("London", "Anne", 87.9);
+
+        // Adding transactions for Liverpool branch.
+        bank.addTransaction("Liverpool", "Joe", 45.2);
+        bank.addTransaction("Liverpool", "Megan", 80.23);
+
+        // Showing transactions.
+        bank.listCustomer("London", true);
+        bank.listCustomer("Liverpool", true);
+
+        // Testing validation.
+        bank.addBranch("Manchester");
+        if(!bank.addCustomer("Manchester","Rob", 45.67)){
+            System.out.println("Branch does not exist.");
+        }
+
+        if(!bank.addBranch("Manchester")){
+            System.out.println("Branch already exists.");
+        }
+
+        if(!bank.addTransaction("Liverpool", "Kyle", 90.8)){
+            System.out.println("Customer does not exist.");
+        }
+
+        if(!bank.addCustomer("London", "Emma", 52.0)){
+            System.out.println("Customer already exists.");
+        }
     }
 
     public static void addIntClass(){
@@ -33,7 +75,7 @@ public class Main {
         Integer integer = new Integer(12);
         Double doubleValue = new Double(12.12);
 
-        System.out.println("Integer: ");
+        System.out.println("\nInteger: ");
 
         // Autoboxing
         ArrayList<Integer> myIntValues = new ArrayList<Integer>();
@@ -49,7 +91,7 @@ public class Main {
         Integer myIntValue = 16; // Integer.valueOf(16);
         int myInt = myIntValue; // myIntValue.intValue();
 
-        System.out.println("Double: ");
+        System.out.println("\nDouble: ");
 
         // Autoboxing
         ArrayList<Double> myDoubleValues = new ArrayList<Double>();

@@ -43,8 +43,6 @@ public class Bank {
             Branch branch = branches.get(i);
             if(branch.getName().equals(name)){
                 return branch;
-            } else {
-                return null;
             }
         }
         return null;
@@ -53,12 +51,11 @@ public class Bank {
     public boolean listCustomer(String branchName, boolean showTransactions){
         Branch branch = findBranch(branchName);
         if(branch != null){
-            System.out.println("Branch: " + branch.getName());
-
+            System.out.println("\nBranch: " + branch.getName());
             ArrayList<Customer> customers = branch.getCustomers();
             for(int i = 0; i < customers.size(); i++){
                 Customer customer = customers.get(i);
-                System.out.println("Customer: " + customer.getName() + "[" + i + "]");
+                System.out.println("\nCustomer: " + customer.getName() + "[" + i + "]");
                 if(showTransactions){
                     System.out.println("Transactions: ");
                     ArrayList<Double> transactions = customer.getTransactions();
@@ -69,7 +66,7 @@ public class Bank {
             }
             return true;
         } else {
-            return false; 
+            return false;
         }
     }
 }
