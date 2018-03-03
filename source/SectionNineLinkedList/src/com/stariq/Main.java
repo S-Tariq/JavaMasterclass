@@ -8,6 +8,8 @@ public class Main {
         addCustomer();
     }
 
+
+
     public static void addCustomer(){
 
         System.out.println("\n******");
@@ -20,6 +22,7 @@ public class Main {
                 " is " + customer.getBalance());
 
         ArrayList<Integer> intList = new ArrayList<Integer>();
+
         intList.add(4);
         intList.add(5);
         intList.add(3);
