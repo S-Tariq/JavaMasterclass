@@ -21,15 +21,17 @@ public class Demo {
         addInOrder(placesToVisit,"Alice Springs");
         addInOrder(placesToVisit,"Darwin");
         printList(placesToVisit);
+
+        visit(placesToVisit);
     }
 
     private static void printList(LinkedList<String> linkedList){
         Iterator<String> i = linkedList.iterator();
-        System.out.println("\nJourney: ");
+        System.out.println("Journey: ");
         while(i.hasNext()){
             System.out.println("Now visiting " + i.next());
         }
-        System.out.println("Done visiting");
+        System.out.println("\n*****Done*****\n");
     }
 
     private static boolean addInOrder(LinkedList<String> linkedList, String newCity){
@@ -38,7 +40,7 @@ public class Demo {
             int comparison = stringListIterator.next().compareTo(newCity);
             if(comparison == 0){
                 // equal, do not add
-                System.out.println("\nError: " + newCity + " is already included as a destination");
+                System.out.println("Error:\n" + newCity + " is already included as a destination");
                 return false;
             } else if(comparison > 0){
                 // new City should appear before this one
@@ -97,5 +99,13 @@ public class Demo {
                     break;
             }
         }
+    }
+
+    private static void printMenu(){
+        System.out.println("Available actions:\npress");
+        System.out.println("0 - to quit\n" +
+                "1 - go to next city\n" +
+                "2 - go to previous city\n" +
+                "3 - print menu options");
     }
 }
