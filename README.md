@@ -5,7 +5,7 @@
 * IntelliJ IDEA
 
 ## Course Content 
-* Section 1: Introduction ☑️
+* Section 1: Introduction :heavy_check_mark:
 * Section 2 : Setup ☑️
 * Section 3: First Steps ☑️
 * Section 4: Variables, Datatypes and Operators ☑️
