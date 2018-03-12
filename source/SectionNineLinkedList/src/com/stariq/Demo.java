@@ -37,21 +37,24 @@ public class Demo {
     private static boolean addInOrder(LinkedList<String> linkedList, String newCity){
         ListIterator<String> stringListIterator = linkedList.listIterator();
         while(stringListIterator.hasNext()){
+            // Checks for cities already present in the list.
             int comparison = stringListIterator.next().compareTo(newCity);
             if(comparison == 0){
-                // equal, do not add
+                // Equal - the city should not be added as it already exists.
                 System.out.println("Error:\n" + newCity + " is already included as a destination");
                 return false;
             } else if(comparison > 0){
-                // new City should appear before this one
-                // Brisbane -> Adelaide
+                // Greater than - the city should be added before the current one.
                 stringListIterator.previous();
                 stringListIterator.add(newCity);
                 return true;
             } else if (comparison < 0){
-                // move on next city
+                // Less than - the city should be added after the current one.
+                // Need to move on to the next city so nothing needs to be added.
             }
         }
+        // Reaching this point indicates that the entire list does not have a suitable point
+        // to insert the new entry hence why the new city needs to be added to the end of the list.
         stringListIterator.add(newCity);
         return true;
     }
