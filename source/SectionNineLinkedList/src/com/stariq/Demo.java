@@ -66,7 +66,7 @@ public class Demo {
         ListIterator<String> listIterator = cities.listIterator();
 
         if(cities.isEmpty()){
-            System.out.println("No cities in the itenerary");
+            System.out.println("No cities");
             return;
         } else {
             System.out.println("Now visiting " + listIterator.next());
@@ -76,13 +76,13 @@ public class Demo {
         while(!quit){
             int action = scanner.nextInt();
             scanner.nextLine();
+
             switch(action){
                 case 0:
 
-                    System.out.println("Holiday (Vacation) over");
+                    System.out.println("Holiday is over");
                     quit = true;
                     break;
-
                 case 1:
                     if(!goingForward){
                         if(listIterator.hasNext()){
@@ -97,7 +97,6 @@ public class Demo {
                         goingForward = false;
                     }
                     break;
-
                 case 2:
                     if(goingForward){
                         if(listIterator.hasPrevious()){
@@ -112,7 +111,6 @@ public class Demo {
                         goingForward = true;
                     }
                     break;
-
                 case 3:
                     printMenu();
                     break;
@@ -121,7 +119,7 @@ public class Demo {
     }
 
     private static void printMenu(){
-        System.out.println("Available actions:\npress");
+        System.out.println("Available actions:\npress:");
         System.out.println("0 - to quit\n" +
                 "1 - go to next city\n" +
                 "2 - go to previous city\n" +
