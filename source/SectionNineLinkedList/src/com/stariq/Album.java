@@ -14,5 +14,12 @@ public class Album {
         this.artist = artist;
     }
 
+    public boolean addSong(String title, double duration){
+        if(findSong(title) == null){
+            songs.add(new Song(title, duration));
+            return true;
+        }
+        return false;
+    }
 
 }
