@@ -32,7 +32,15 @@ public class Album {
         return null;
     }
 
-
+    public boolean addToPlaylist(int trackNumber, LinkedList<Song> playlist){
+        int index = trackNumber - 1;
+        if((index > 0) && (index <= songs.size())){
+            playlist.add(songs.get(index));
+            return true;
+        }
+        System.out.println("This album does not have a track " + trackNumber);
+        return false;
+    }
 
 
 
