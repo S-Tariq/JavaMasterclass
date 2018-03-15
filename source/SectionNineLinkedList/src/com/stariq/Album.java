@@ -34,7 +34,7 @@ public class Album {
 
     public boolean addToPlaylist(int trackNumber, LinkedList<Song> playlist){
         int index = trackNumber - 1;
-        if((index > 0) && (index <= songs.size())){
+        if((index >= 0) && (index <= songs.size())){
             playlist.add(songs.get(index));
             return true;
         }
@@ -42,6 +42,16 @@ public class Album {
         return false;
     }
 
+    // Method overloaded
+    public boolean addToPlaylist(String title, LinkedList<Song> playlist){
+        Song checkedSong = findSong(title);
+        if(checkedSong != null){
+            playlist.add(checkedSong);
+            return true;
+        }
+        System.out.println("The song " + title + " is not in this album");
+        return false;
+    }
 
 
 
