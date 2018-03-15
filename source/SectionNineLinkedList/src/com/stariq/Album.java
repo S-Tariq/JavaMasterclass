@@ -1,6 +1,7 @@
 package com.stariq;
 
 import java.util.ArrayList;
+import java.util.LinkedList;
 
 public class Album {
 
@@ -21,5 +22,20 @@ public class Album {
         }
         return false;
     }
+
+    private Song findSong(String title){
+        for(Song checkedSong : songs){
+            if(checkedSong.getTitle().equals(title)){
+                return checkedSong;
+            }
+        }
+        return null;
+    }
+
+
+
+
+
+
 
 }
