@@ -69,8 +69,4 @@ public class Album {
         System.out.println("This album does not have a track title: " + title);
         return false;
     }
-
-
-
-
 }
