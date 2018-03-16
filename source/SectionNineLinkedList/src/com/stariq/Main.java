@@ -71,7 +71,53 @@ public class Main {
             System.out.println("Now playing: \n - " + listIterator.next().toString());
         }
 
+        while(!quit){
+            int action = scanner.nextInt();
+            scanner.nextLine();
 
+            switch (action){
+                case 0:
+                    System.out.println("Playlist complete.");
+                    quit = true;
+                    break;
+                case 1:
+                    if(!forward){
+                        if(listIterator.hasNext()){
+                            listIterator.next();
+                        }
+                        forward = true;
+                    }
+                    if(listIterator.hasNext()){
+                        System.out.println("Now playing: \n - " + listIterator.next().toString());
+                    } else {
+                        System.out.println("Reached end of playlist.");
+                        forward = false;
+                    }
+                    break;
+                case 2:
+                    if(forward){
+                        if(listIterator.hasPrevious()){
+                            listIterator.previous();
+                        }
+                        forward = false;
+                    }
+                    if(listIterator.hasPrevious()){
+                        System.out.println("Now playing: \n - " + listIterator.previous().toString());
+                    } else {
+                        System.out.println("Reached start of playlist.");
+                        forward = true;
+                    }
+                    break;
+                case 3:
+                    break;
+                case 4:
+                    //printList(playlist);
+                    break;
+                case 5:
+                    //printMenu();
+                    break;
+            }
+        }
     }
 
     public static void addCustomer(){
