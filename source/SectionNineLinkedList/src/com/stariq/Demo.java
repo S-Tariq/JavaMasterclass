@@ -6,6 +6,7 @@ import java.util.ListIterator;
 import java.util.Scanner;
 
 public class Demo {
+
     public static void main(String[] args) {
 
         LinkedList<String> placesToVisit = new LinkedList<String>();
