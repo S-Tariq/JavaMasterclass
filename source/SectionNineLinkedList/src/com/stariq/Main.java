@@ -57,7 +57,22 @@ public class Main {
 
     }
 
-    
+    public static void play(LinkedList<Song> playlist){
+        Scanner scanner = new Scanner(System.in);
+        boolean quit = false;
+        boolean forward = true;
+
+        ListIterator<Song> listIterator = playlist.listIterator();
+
+        if(playlist.size() == 0){
+            System.out.println("No songs in playlist");
+            return;
+        } else {
+            System.out.println("Now playing: \n - " + listIterator.next().toString());
+        }
+
+
+    }
 
     public static void addCustomer(){
 
