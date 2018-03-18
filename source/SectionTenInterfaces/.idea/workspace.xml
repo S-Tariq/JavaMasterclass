@@ -35,7 +35,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ITelephone.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ITelephone.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/stariq/ITelephone.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
@@ -45,13 +45,30 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="DeskPhone.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/stariq/DeskPhone.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="371">
+              <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding>
+                <element signature="e#166#167#0" expanded="true" />
+                <element signature="e#260#261#0" expanded="true" />
+                <element signature="e#315#316#0" expanded="true" />
+                <element signature="e#398#399#0" expanded="true" />
+                <element signature="e#883#884#0" expanded="true" />
+                <element signature="e#915#916#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -67,6 +84,7 @@
         <option value="$PROJECT_DIR$/src/com/stariq/Main.java" />
         <option value="$PROJECT_DIR$/src/com/stariq/Gearbox.java" />
         <option value="$PROJECT_DIR$/src/com/stariq/ITelephone.java" />
+        <option value="$PROJECT_DIR$/src/com/stariq/DeskPhone.java" />
       </list>
     </option>
   </component>
@@ -260,6 +278,21 @@
         <state relative-caret-position="216">
           <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stariq/DeskPhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding>
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#883#884#0" expanded="true" />
+            <element signature="e#915#916#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
