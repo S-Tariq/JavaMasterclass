@@ -30,7 +30,7 @@ public class DeskPhone implements ITelephone{
     @Override
     public boolean callPhone(int phoneNumber) {
         if(phoneNumber == myNumber){
-            System.out.println("Ring ring");
+            System.out.println("Playing desk phone ringtone");
             isRinging = true;
         } else {
             isRinging = false;

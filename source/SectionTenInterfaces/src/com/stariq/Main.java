@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         addDeskPhone();
-
+        addMobilePhone();
     }
 
     public static void addDeskPhone(){
@@ -13,6 +13,12 @@ public class Main {
         phone.powerOn();
         phone.callPhone(3456433);
         phone.answer();
+    }
 
+    public static void addMobilePhone(){
+        ITelephone phone = new MobilePhone(557856);
+        phone.powerOn();
+        phone.callPhone(557856);
+        phone.answer();
     }
 }
