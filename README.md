@@ -13,7 +13,7 @@
 * Section 6: Control Flow Statements ☑
 * Section 7: OOP Part 1 - Classes, Constructors and Inheritance ☑
 * Section 8: OOP Part 2 - Composition, Encapsulation and Polymorphism ☑
-* Section 9: Arrays, Java inbuilt Lists, Autoboxing and Unboxing 
+* Section 9: Arrays, Java inbuilt Lists, Autoboxing and Unboxing ☑
 * Section 10: Inner and Abstract Classes & Interfaces 
 * Section 11: Java Generics 
 * Section 12: Naming Conventions and Packages & static and final keywords 
