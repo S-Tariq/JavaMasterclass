@@ -10,6 +10,7 @@ public class Main {
 
     }
 
+    // Simulates getting values from a file.
     public static ArrayList<String> readValues(){
         ArrayList<String> values = new ArrayList<String>();
 
