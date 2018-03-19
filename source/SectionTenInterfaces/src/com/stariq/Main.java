@@ -7,7 +7,8 @@ public class Main {
     public static void main(String[] args) {
         //addDeskPhone();
         //addMobilePhone();
-        addPlayer();
+        //addPlayer();
+
     }
 
     public static void addPlayer(){
