@@ -7,7 +7,33 @@ public class Main {
     public static void main(String[] args) {
         //addDeskPhone();
         //addMobilePhone();
+        addPlayer();
+    }
 
+    public static void addPlayer(){
+
+        System.out.println("\n*****");
+
+        Player player = new Player("Emma", 10,15);
+        System.out.println(player.toString());
+        saveObject(player);
+        player.setHitPoints(12);
+        System.out.println(player);
+        player.setWeapon("Knife");
+        saveObject(player);
+        loadObject(player);
+        System.out.println(player);
+    }
+
+    public static void saveObject(ISaveable objectToSave){
+        for(int i = 0; i < objectToSave.write().size(); i++){
+            System.out.println("Saving " + objectToSave.write().get(i) + " to storage device");
+        }
+    }
+
+    public static void loadObject(ISaveable objectToLoad){
+        ArrayList<String> values = readValues();
+        objectToLoad.read(values);
     }
 
     // Simulates getting values from a file.
@@ -23,7 +49,7 @@ public class Main {
                 "0 to quit");
 
         while(!quit){
-            System.out.println("Choose an option: ");
+            System.out.print("Choose an option: ");
             int choice = scanner.nextInt();
             scanner.nextLine();
 
@@ -32,7 +58,7 @@ public class Main {
                     quit = true;
                     break;
                 case 1:
-                    System.out.println("Enter a string: ");
+                    System.out.print("Enter a string: ");
                     String stringInput = scanner.nextLine();
                     values.add(index,stringInput);
                     index++;
