@@ -5,10 +5,20 @@ import java.util.*;
 public class Main {
 
     public static void main(String[] args) {
-        //addDeskPhone();
-        //addMobilePhone();
-        //addPlayer();
+        addDeskPhone();
+        addMobilePhone();
+        addPlayer();
+        addMonster();
+    }
 
+    public static void addMonster(){
+
+        System.out.println("\n*****");
+
+        ISaveable monster = new Monster("Werewolf",65,89);
+        System.out.println(monster);
+        System.out.println("Strength: " + ((Monster) monster).getStrength());
+        saveObject(monster);
     }
 
     public static void addPlayer(){

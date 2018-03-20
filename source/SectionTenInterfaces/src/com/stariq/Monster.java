@@ -1,7 +1,6 @@
 package com.stariq;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 
 public class Monster implements ISaveable{
 
