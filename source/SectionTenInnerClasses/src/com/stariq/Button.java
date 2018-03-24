@@ -20,4 +20,9 @@ public class Button {
     public void onClick(){
         onClickListener.onClick(title);
     }
+
+    public interface OnClickListener{
+
+        public void onClick(String title);
+    }
 }

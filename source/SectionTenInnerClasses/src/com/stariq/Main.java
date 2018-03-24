@@ -1,9 +1,16 @@
 package com.stariq;
 
+import java.util.*;
+
 public class Main {
 
+    private static Scanner scanner = new Scanner(System.in);
+    private static Button buttonPrint = new Button("Print");
+
     public static void main(String[] args) {
-        addGearbox();
+        //addGearbox();
+        //addButton();
+        anonButton();
     }
 
     public static void addGearbox(){
@@ -21,5 +28,55 @@ public class Main {
         mcLaren.changeGear(3);
         mcLaren.operateClutch(false);
         System.out.println(mcLaren.wheelSpeed(6000));
+    }
+
+    public static void addButton(){
+
+        System.out.println("\n*****");
+
+        class ClickListener implements Button.OnClickListener {
+
+            public ClickListener(){
+                System.out.println("I have been attached");
+            }
+
+            @Override
+            public void onClick(String title) {
+                System.out.println(title + " was clicked");
+            }
+        }
+
+        buttonPrint.setOnClickListener(new ClickListener());
+        listen();
+    }
+
+    public static void listen(){
+        boolean quit = false;
+
+        while(!quit){
+            int choice = scanner.nextInt();
+            scanner.nextLine();
+
+            switch(choice){
+                case 0:
+                    quit = true;
+                    break;
+                case 1:
+                    buttonPrint.onClick();
+            }
+        }
+    }
+
+    public static void anonButton(){
+
+        System.out.println("\n*****");
+
+        buttonPrint.setOnClickListener(new Button.OnClickListener() {
+            @Override
+            public void onClick(String title) {
+                System.out.println(title + " was clicked");
+            }
+        });
+        listen();
     }
 }
