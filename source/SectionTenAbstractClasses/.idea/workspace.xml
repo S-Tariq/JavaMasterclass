@@ -12,11 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/stariq/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            <state relative-caret-position="336">
+              <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -25,15 +25,15 @@
       <file leaf-file-name="ListItem.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/stariq/ListItem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="74" column="1" lean-forward="true" selection-start-line="74" selection-start-column="1" selection-end-line="74" selection-end-column="1" />
+            <state relative-caret-position="221">
+              <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
               <folding>
+                <element signature="e#3503#3504#0" expanded="true" />
                 <element signature="e#3537#3538#0" expanded="true" />
-                <element signature="e#3571#3572#0" expanded="true" />
-                <element signature="e#3808#3809#0" expanded="true" />
-                <element signature="e#3836#3837#0" expanded="true" />
+                <element signature="e#3774#3775#0" expanded="true" />
+                <element signature="e#3802#3803#0" expanded="true" />
+                <element signature="e#3844#3845#0" expanded="true" />
                 <element signature="e#3878#3879#0" expanded="true" />
-                <element signature="e#3912#3913#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -42,8 +42,8 @@
       <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/stariq/Node.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="35" column="22" lean-forward="false" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+            <state relative-caret-position="588">
+              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
               <folding>
                 <element signature="e#89#90#0" expanded="true" />
                 <element signature="e#117#118#0" expanded="true" />
@@ -59,25 +59,25 @@
       <file leaf-file-name="NodeList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/stariq/NodeList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+            <state relative-caret-position="119">
+              <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyLinkedList.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MyLinkedList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/stariq/MyLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1368">
-              <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+            <state relative-caret-position="21">
+              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding>
                 <element signature="e#144#145#0" expanded="true" />
                 <element signature="e#176#177#0" expanded="true" />
                 <element signature="e#223#224#0" expanded="true" />
                 <element signature="e#255#256#0" expanded="true" />
-                <element signature="e#2010#2011#0" expanded="true" />
-                <element signature="e#2038#2039#0" expanded="true" />
+                <element signature="e#2121#2122#0" expanded="true" />
+                <element signature="e#2149#2150#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -104,19 +104,19 @@
         <option value="$PROJECT_DIR$/src/com/stariq/ISaveable.java" />
         <option value="$PROJECT_DIR$/src/com/stariq/Animal.java" />
         <option value="$PROJECT_DIR$/src/com/stariq/Dog.java" />
-        <option value="$PROJECT_DIR$/src/com/stariq/Main.java" />
         <option value="$PROJECT_DIR$/src/com/stariq/CanFly.java" />
         <option value="$PROJECT_DIR$/src/com/stariq/Bird.java" />
         <option value="$PROJECT_DIR$/src/com/stariq/Pigeon.java" />
         <option value="$PROJECT_DIR$/src/com/stariq/Penguin.java" />
-        <option value="$PROJECT_DIR$/src/com/stariq/ListItem.java" />
         <option value="$PROJECT_DIR$/src/com/stariq/Node.java" />
         <option value="$PROJECT_DIR$/src/com/stariq/NodeList.java" />
         <option value="$PROJECT_DIR$/src/com/stariq/MyLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/com/stariq/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/stariq/ListItem.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="761" />
     <option name="y" value="68" />
     <option name="width" value="455" />
@@ -137,10 +137,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,6 +162,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -232,22 +232,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.52138156" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21217105" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.120065786" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17349927" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -258,7 +259,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.52138156" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -273,6 +273,67 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/stariq/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stariq/ListItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="74" column="1" lean-forward="true" selection-start-line="74" selection-start-column="1" selection-end-line="74" selection-end-column="1" />
+          <folding>
+            <element signature="e#3503#3504#0" expanded="true" />
+            <element signature="e#3537#3538#0" expanded="true" />
+            <element signature="e#3774#3775#0" expanded="true" />
+            <element signature="e#3802#3803#0" expanded="true" />
+            <element signature="e#3844#3845#0" expanded="true" />
+            <element signature="e#3878#3879#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stariq/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="22" lean-forward="false" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+          <folding>
+            <element signature="e#89#90#0" expanded="true" />
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stariq/NodeList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stariq/MyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="51" column="24" lean-forward="true" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
+          <folding>
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#2121#2122#0" expanded="true" />
+            <element signature="e#2149#2150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/stariq/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -305,14 +366,14 @@
         <state relative-caret-position="221">
           <caret line="20" column="62" lean-forward="false" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="62" />
           <folding>
-            <element signature="e#112#113#0" expanded="true" />
-            <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#112#113#0" expanded="false" />
+            <element signature="e#139#140#0" expanded="false" />
+            <element signature="e#178#179#0" expanded="false" />
+            <element signature="e#239#240#0" expanded="false" />
+            <element signature="e#282#283#0" expanded="false" />
+            <element signature="e#351#352#0" expanded="false" />
+            <element signature="e#390#391#0" expanded="false" />
+            <element signature="e#462#463#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -333,9 +394,9 @@
         <state relative-caret-position="187">
           <caret line="13" column="29" lean-forward="false" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
           <folding>
-            <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#110#111#0" expanded="false" />
+            <element signature="e#142#143#0" expanded="false" />
+            <element signature="e#269#270#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -360,12 +421,12 @@
         <state relative-caret-position="850">
           <caret line="50" column="39" lean-forward="true" selection-start-line="50" selection-start-column="39" selection-end-line="50" selection-end-column="39" />
           <folding>
+            <element signature="e#3503#3504#0" expanded="true" />
             <element signature="e#3537#3538#0" expanded="true" />
-            <element signature="e#3571#3572#0" expanded="true" />
-            <element signature="e#3808#3809#0" expanded="true" />
-            <element signature="e#3836#3837#0" expanded="true" />
+            <element signature="e#3774#3775#0" expanded="true" />
+            <element signature="e#3802#3803#0" expanded="true" />
+            <element signature="e#3844#3845#0" expanded="true" />
             <element signature="e#3878#3879#0" expanded="true" />
-            <element signature="e#3912#3913#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -391,14 +452,14 @@
         <state relative-caret-position="221">
           <caret line="20" column="62" lean-forward="false" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="62" />
           <folding>
-            <element signature="e#112#113#0" expanded="true" />
-            <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#112#113#0" expanded="false" />
+            <element signature="e#139#140#0" expanded="false" />
+            <element signature="e#178#179#0" expanded="false" />
+            <element signature="e#239#240#0" expanded="false" />
+            <element signature="e#282#283#0" expanded="false" />
+            <element signature="e#351#352#0" expanded="false" />
+            <element signature="e#390#391#0" expanded="false" />
+            <element signature="e#462#463#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -419,9 +480,9 @@
         <state relative-caret-position="187">
           <caret line="13" column="29" lean-forward="false" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
           <folding>
-            <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#110#111#0" expanded="false" />
+            <element signature="e#142#143#0" expanded="false" />
+            <element signature="e#269#270#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -473,14 +534,14 @@
         <state relative-caret-position="221">
           <caret line="20" column="62" lean-forward="false" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="62" />
           <folding>
-            <element signature="e#112#113#0" expanded="true" />
-            <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#112#113#0" expanded="false" />
+            <element signature="e#139#140#0" expanded="false" />
+            <element signature="e#178#179#0" expanded="false" />
+            <element signature="e#239#240#0" expanded="false" />
+            <element signature="e#282#283#0" expanded="false" />
+            <element signature="e#351#352#0" expanded="false" />
+            <element signature="e#390#391#0" expanded="false" />
+            <element signature="e#462#463#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -501,9 +562,9 @@
         <state relative-caret-position="187">
           <caret line="13" column="29" lean-forward="false" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
           <folding>
-            <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#110#111#0" expanded="false" />
+            <element signature="e#142#143#0" expanded="false" />
+            <element signature="e#269#270#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -540,9 +601,9 @@
         <state relative-caret-position="187">
           <caret line="13" column="29" lean-forward="false" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
           <folding>
-            <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#110#111#0" expanded="false" />
+            <element signature="e#142#143#0" expanded="false" />
+            <element signature="e#269#270#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -562,14 +623,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/stariq/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/stariq/CanFly.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -583,14 +636,14 @@
         <state relative-caret-position="221">
           <caret line="20" column="62" lean-forward="false" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="62" />
           <folding>
-            <element signature="e#112#113#0" expanded="true" />
-            <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#112#113#0" expanded="false" />
+            <element signature="e#139#140#0" expanded="false" />
+            <element signature="e#178#179#0" expanded="false" />
+            <element signature="e#239#240#0" expanded="false" />
+            <element signature="e#282#283#0" expanded="false" />
+            <element signature="e#351#352#0" expanded="false" />
+            <element signature="e#390#391#0" expanded="false" />
+            <element signature="e#462#463#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -624,25 +677,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/stariq/ListItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="74" column="1" lean-forward="true" selection-start-line="74" selection-start-column="1" selection-end-line="74" selection-end-column="1" />
-          <folding>
-            <element signature="e#3537#3538#0" expanded="true" />
-            <element signature="e#3571#3572#0" expanded="true" />
-            <element signature="e#3808#3809#0" expanded="true" />
-            <element signature="e#3836#3837#0" expanded="true" />
-            <element signature="e#3878#3879#0" expanded="true" />
-            <element signature="e#3912#3913#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/stariq/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="35" column="22" lean-forward="false" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+        <state relative-caret-position="588">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
           <folding>
             <element signature="e#89#90#0" expanded="true" />
             <element signature="e#117#118#0" expanded="true" />
@@ -656,24 +694,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/stariq/NodeList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        <state relative-caret-position="119">
+          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/stariq/MyLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1368">
-          <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+        <state relative-caret-position="21">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding>
             <element signature="e#144#145#0" expanded="true" />
             <element signature="e#176#177#0" expanded="true" />
             <element signature="e#223#224#0" expanded="true" />
             <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#2010#2011#0" expanded="true" />
-            <element signature="e#2038#2039#0" expanded="true" />
+            <element signature="e#2121#2122#0" expanded="true" />
+            <element signature="e#2149#2150#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stariq/ListItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding>
+            <element signature="e#3503#3504#0" expanded="true" />
+            <element signature="e#3537#3538#0" expanded="true" />
+            <element signature="e#3774#3775#0" expanded="true" />
+            <element signature="e#3802#3803#0" expanded="true" />
+            <element signature="e#3844#3845#0" expanded="true" />
+            <element signature="e#3878#3879#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stariq/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
