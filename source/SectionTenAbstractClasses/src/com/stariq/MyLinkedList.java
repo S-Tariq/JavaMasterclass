@@ -30,21 +30,21 @@ public class MyLinkedList implements NodeList {
                     currentItem = currentItem.next();
                 } else {
                     // there is no next, insert end of list
-                    currentItem.setNext(newItem);
-                    newItem.setPrevious(currentItem);
+                    currentItem.setNext(newItem).setPrevious(currentItem);
+                    //newItem.setPrevious(currentItem);
                     return true;
                 }
             } else if (comparison > 0){
                 // newItem is less, move left if possible
                 if(currentItem.previous() != null){
-                    currentItem.previous().setNext(newItem);
-                    newItem.setPrevious(currentItem.previous());
-                    newItem.setNext(currentItem);
-                    currentItem.setPrevious(newItem);
+                    currentItem.previous().setNext(newItem).setPrevious(currentItem.previous());
+                    //newItem.setPrevious(currentItem.previous());
+                    newItem.setNext(currentItem).setPrevious(newItem);
+                    //currentItem.setPrevious(newItem);
                 } else {
                     // there is no previous, insert start of list
-                    newItem.setNext(this.root);
-                    this.root.setPrevious(newItem);
+                    newItem.setNext(this.root).setPrevious(newItem);
+                    //this.root.setPrevious(newItem);
                     this.root = newItem;
                 }
                 return true;
@@ -65,5 +65,13 @@ public class MyLinkedList implements NodeList {
     @Override
     public void traverse(ListItem root) {
 
+        if(root == null){
+            System.out.println("List is empty");
+        } else {
+            while (root != null) {
+                System.out.println(root.getValue());
+                root = root.next();
+            }
+        }
     }
 }
