@@ -18,9 +18,12 @@ public class Main {
 
         String stringData = "Darwin Brisbane Perth Melbourne Canberra Adelaide Sydney Canberra";
         String[] data = stringData.split(" ");
+
         for(String s : data){
-            
+            list.addItem(new Node(s));
         }
+
+        list.traverse(list.getRoot());
     }
 
     public static void addPenguin(){
