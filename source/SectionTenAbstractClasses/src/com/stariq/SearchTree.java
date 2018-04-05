@@ -78,6 +78,37 @@ public class SearchTree implements NodeList {
         return false;
     }
 
+    private void performRemoval(ListItem item, ListItem parent){
+        // remove item from the tree
+        if(item.next() == null){
+            // no right tree, so make parent point to left tree (which may be null)
+            if(parent.next() == item){
+                // item is right child of its parent
+                parent.setNext(item.previous());
+            } else if (parent.previous() == item){
+                // item is left child of its parent
+                parent.setPrevious(item.previous());
+            } else {
+                // parent must be item, which means we were looking at the root of the tree
+                this.root = item.previous();
+            }
+        } else if (item.previous() == null){
+            // no left tree, so make parent point to right tree (which may be null)
+            if(parent.next() == item){
+                // item is right child of its parent
+                parent.setNext(item.next());
+            } else if (parent.previous() == item){
+                // item is left child of its parent
+                parent.setPrevious(item.next());
+            } else {
+                // again, we are deleting the root
+                this.root = item.next();
+            }
+        } else {
+            
+        }
+    }
+
     @Override
     public void traverse(ListItem root) {
         // recursive method
