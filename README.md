@@ -15,7 +15,7 @@
 * Section 8: OOP Part 2 - Composition, Encapsulation and Polymorphism :heavy_check_mark:
 * Section 9: Arrays, Java inbuilt Lists, Autoboxing and Unboxing :heavy_check_mark:
 * Section 10: Inner and Abstract Classes & Interfaces :heavy_check_mark:
-* Section 11: Java Generics 
+* Section 11: Java Generics :heavy_check_mark:
 * Section 12: Naming Conventions and Packages & static and final keywords 
 * Section 13: Java Collections 
 * Section 14: JavaFX 
