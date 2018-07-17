@@ -3,46 +3,42 @@ package com.stariq;
 import com.stariq.game.ISaveable;
 import com.stariq.game.Monster;
 import com.stariq.game.Player;
+import com.stariq.series.Series;
 
 public class Main {
 
     public static void main(String[] args) {
 
        //addMyWindow();
-
-        // The Player class, Monster class and ISaveable interface are being imported from an external library/jar file.
-        addPlayer();
-        addMonster();
+       addPackage();
+       addSeries();
     }
 
-    public static void addMonster(){
+    public static void addSeries(){
+        System.out.println("\n*****");
+        for(int i = 0; i <= 10; i++){
+            System.out.println(Series.nSum(i));
+        }
 
         System.out.println("\n*****");
+        for(int i = 0; i <= 10; i++){
+            System.out.println(Series.factorial(i));
+        }
 
+        System.out.println("\n*****");
+        for(int i = 0; i <= 10; i++){
+            System.out.println(Series.fibonacci(i));
+        }
+    }
+
+    public static void addPackage(){
+
+        System.out.println("\n*****");
+        // The Player class, Monster class and ISaveable interface are being imported from an external library/jar file.
         ISaveable monster = new Monster("Werewolf",65,89);
         System.out.println(monster);
-        System.out.println("Strength: " + ((Monster) monster).getStrength());
-        saveObject(monster);
-    }
-
-    public static void addPlayer(){
-
-        System.out.println("\n*****");
-
         Player player = new Player("Emma", 10,15);
         System.out.println(player.toString());
-        saveObject(player);
-        player.setHitPoints(12);
-        System.out.println(player);
-        player.setWeapon("Knife");
-        saveObject(player);
-
-    }
-
-    public static void saveObject(ISaveable objectToSave){
-        for(int i = 0; i < objectToSave.write().size(); i++){
-            System.out.println("Saving " + objectToSave.write().get(i) + " to storage device");
-        }
     }
 
     public static void addMyWindow(){
