@@ -16,7 +16,7 @@
 * Section 9: Arrays, Java inbuilt Lists, Autoboxing and Unboxing :heavy_check_mark:
 * Section 10: Inner and Abstract Classes & Interfaces :heavy_check_mark:
 * Section 11: Java Generics :heavy_check_mark:
-* Section 12: Naming Conventions and Packages & static and final keywords 
+* Section 12: Naming Conventions and Packages & static and final keywords :heavy_check_mark:
 * Section 13: Java Collections 
 * Section 14: JavaFX 
 * Section 15: Basic Input & Output including java.util 
