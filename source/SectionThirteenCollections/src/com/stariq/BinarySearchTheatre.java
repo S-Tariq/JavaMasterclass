@@ -1,15 +1,14 @@
 package com.stariq;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
-public class Theatre {
+public class BinarySearchTheatre {
 
     private final String theatreName;
     private List<Seat> seats = new ArrayList<>();
 
-    public Theatre(String theatreName, int numRows, int seatsPerRow) {
+    public BinarySearchTheatre(String theatreName, int numRows, int seatsPerRow) {
         this.theatreName = theatreName;
 
         int lastRow = 'A' + (numRows -1);
@@ -103,4 +102,3 @@ public class Theatre {
         }
     }
 }
-
