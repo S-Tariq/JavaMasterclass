@@ -13,6 +13,7 @@ public class Location {
         this.locationID = locationID;
         this.description = description;
         this.exits = new HashMap<String, Integer>();
+        this.exits.put("Q", 0);
     }
 
     public void addExit(String direction, int location){
@@ -27,7 +28,9 @@ public class Location {
         return description;
     }
 
-    public Map<String, Integer> getExists() {
+    public Map<String, Integer> getExits() {
+        // Returns new object of hashmap that contains all the elements of exits map.
+        // Prevents changes being made to the internal map.
         return new HashMap<String, Integer>(exits);
     }
 }
