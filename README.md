@@ -17,7 +17,7 @@
 * Section 10: Inner and Abstract Classes & Interfaces ✔
 * Section 11: Java Generics ✔
 * Section 12: Naming Conventions and Packages & static and final keywords ✔
-* Section 13: Java Collections ✔
+* Section 13: Java Collections ✓
 * Section 14: JavaFX 
 * Section 15: Basic Input & Output including java.util 
 * Section 16: Concurrency in Java 
