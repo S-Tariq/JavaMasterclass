@@ -28,6 +28,5 @@
 * Section 21: Java Networking Programming 
 * Section 22: Java 9 Module System 
 * Section 23: Migrating Java Projects to Java 9 
-* Section 24: Bonus Material 
 
 
