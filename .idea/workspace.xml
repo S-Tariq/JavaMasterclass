@@ -1,13 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f30a98f2-72f1-413c-b8aa-248a7f5ca561" name="Default" comment="" />
+    <list default="true" id="f30a98f2-72f1-413c-b8aa-248a7f5ca561" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/SectionEightComposition.iml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/Composition.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/src/com/stariq/Bed.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/src/com/stariq/Bed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/src/com/stariq/Bedroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/src/com/stariq/Bedroom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/src/com/stariq/Case.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/src/com/stariq/Case.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/src/com/stariq/Ceiling.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/src/com/stariq/Ceiling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/src/com/stariq/Cupboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/src/com/stariq/Cupboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/src/com/stariq/Dimensions.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/src/com/stariq/Dimensions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/src/com/stariq/Dresser.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/src/com/stariq/Dresser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/src/com/stariq/Kitchen.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/src/com/stariq/Kitchen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/src/com/stariq/Lamp.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/src/com/stariq/Lamp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/src/com/stariq/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/src/com/stariq/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/src/com/stariq/Monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/src/com/stariq/Monitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/src/com/stariq/Motherboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/src/com/stariq/Motherboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/src/com/stariq/Oven.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/src/com/stariq/Oven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/src/com/stariq/PC.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/src/com/stariq/PC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/src/com/stariq/Resolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/src/com/stariq/Resolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/src/com/stariq/Sink.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/src/com/stariq/Sink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/src/com/stariq/Wall.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/src/com/stariq/Wall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightEncapsulation/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/Encapsulation/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightEncapsulation/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Encapsulation/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightEncapsulation/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Encapsulation/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightEncapsulation/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Encapsulation/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightEncapsulation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Encapsulation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightEncapsulation/SectionEightEncapsulation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Encapsulation/Encapsulation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightEncapsulation/src/com/stariq/EnhancedPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Encapsulation/src/com/stariq/EnhancedPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightEncapsulation/src/com/stariq/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Encapsulation/src/com/stariq/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightEncapsulation/src/com/stariq/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Encapsulation/src/com/stariq/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightEncapsulation/src/com/stariq/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Encapsulation/src/com/stariq/Printer.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Bed.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/Composition/src/com/stariq/Bed.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -43,31 +91,7 @@
               <item name="CompleteJavaMasterclass" type="b2602c69:ProjectViewProjectNode" />
               <item name="CompleteJavaMasterclass" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="SectionEightComposition" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CompleteJavaMasterclass" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CompleteJavaMasterclass" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="SectionEightComposition" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CompleteJavaMasterclass" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CompleteJavaMasterclass" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="SectionEightComposition" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CompleteJavaMasterclass" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CompleteJavaMasterclass" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="SectionEightComposition" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="stariq" type="462c0819:PsiDirectoryNode" />
+              <item name="SectionTwelveStaticAndFinal" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -77,6 +101,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHubDesktop/app-2.5.0/resources/app/git/mingw64/bin/git.exe" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
@@ -179,6 +206,15 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/source/Composition/src/com/stariq/Bed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
