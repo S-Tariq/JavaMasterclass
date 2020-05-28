@@ -2,26 +2,274 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f30a98f2-72f1-413c-b8aa-248a7f5ca561" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/source/SectionEightOOP/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/OOP/.idea/description.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightOOP/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/OOP/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightOOP/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/OOP/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightOOP/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/OOP/.idea/project-template.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightOOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/OOP/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightOOP/SectionEightOOP.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightOOP/SectionEightOOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/source/OOP/OOP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightOOP/src/com/stariq/DeluxeBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/OOP/src/com/stariq/DeluxeBurger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightOOP/src/com/stariq/Hamburger.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/OOP/src/com/stariq/Hamburger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightOOP/src/com/stariq/HealthyBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/OOP/src/com/stariq/HealthyBurger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightOOP/src/com/stariq/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/OOP/src/com/stariq/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightPolymorphism/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/Polymorphism/.idea/description.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightPolymorphism/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Polymorphism/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightPolymorphism/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Polymorphism/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightPolymorphism/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Polymorphism/.idea/project-template.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightPolymorphism/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Polymorphism/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightPolymorphism/SectionEightPolymorphism.iml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Polymorphism/Polymorphism.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightPolymorphism/src/com/stariq/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Polymorphism/src/com/stariq/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightPolymorphism/src/com/stariq/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Polymorphism/src/com/stariq/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightPolymorphism/src/com/stariq/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Polymorphism/src/com/stariq/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/AbstractClasses/AbstractClasses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/AccessModifiers/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/AccessModifiers/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/AccessModifiers/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/AccessModifiers/AccessModifiers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/Collections/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/Collections/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/Collections/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/Collections/Collections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/ImmutableClass/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/ImmutableClass/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/ImmutableClass/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/ImmutableClass/ImmutableClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/InnerClasses/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/InnerClasses/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/InnerClasses/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/InnerClasses/InnerClasses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/Interfaces/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/Interfaces/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/Interfaces/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/Interfaces/Interfaces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/Packages/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/Packages/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/Packages/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/Scope/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/Scope/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/Scope/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/Scope/Scope.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionElevenGenerics/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/AbstractClasses/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionElevenGenerics/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Generics/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionElevenGenerics/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Generics/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionElevenGenerics/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/AbstractClasses/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionElevenGenerics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Generics/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionElevenGenerics/SectionElevenGenerics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/source/ArrayList/ArrayList.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionElevenGenerics/src/com/stariq/BaseballPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Generics/src/com/stariq/BaseballPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionElevenGenerics/src/com/stariq/FootballPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Generics/src/com/stariq/FootballPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionElevenGenerics/src/com/stariq/League.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Generics/src/com/stariq/League.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionElevenGenerics/src/com/stariq/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Generics/src/com/stariq/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionElevenGenerics/src/com/stariq/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Generics/src/com/stariq/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionElevenGenerics/src/com/stariq/SoccerPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Generics/src/com/stariq/SoccerPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionElevenGenerics/src/com/stariq/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Generics/src/com/stariq/Team.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionFifteenExceptions/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/ArrayList/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionFifteenExceptions/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Exceptions/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionFifteenExceptions/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Exceptions/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionFifteenExceptions/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/ArrayList/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionFifteenExceptions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Exceptions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionFifteenExceptions/SectionFifteenExceptions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Arrays/Arrays.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionFifteenExceptions/src/com/stariq/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Exceptions/src/com/stariq/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionFifteenExceptions/src/com/stariq/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Exceptions/src/com/stariq/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionFifteenInputOutput/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/Arrays/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionFifteenInputOutput/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/InputOutput/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionFifteenInputOutput/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/InputOutput/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionFifteenInputOutput/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Arrays/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionFifteenInputOutput/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/InputOutput/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionFifteenInputOutput/SectionFifteenInputOutput.iml" beforeDir="false" afterPath="$PROJECT_DIR$/source/AutoboxingAndUnboxing/AutoboxingAndUnboxing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionFifteenInputOutput/locations.txt" beforeDir="false" afterPath="$PROJECT_DIR$/source/InputOutput/locations.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionFifteenInputOutput/src/com/stariq/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/InputOutput/src/com/stariq/Location.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionFifteenInputOutput/src/com/stariq/Locations.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/InputOutput/src/com/stariq/Locations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionFifteenInputOutput/src/com/stariq/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/InputOutput/src/com/stariq/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionNineArrayList/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/AutoboxingAndUnboxing/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionNineArrayList/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/AbstractClasses/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionNineArrayList/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/ArrayList/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionNineArrayList/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/AutoboxingAndUnboxing/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionNineArrayList/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/ArrayList/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionNineArrayList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/ArrayList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionNineArrayList/SectionNineArrayList.iml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Constuctors/Constructors.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionNineArrayList/src/com/stariq/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/ArrayList/src/com/stariq/Contact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionNineArrayList/src/com/stariq/GroceryList.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/ArrayList/src/com/stariq/GroceryList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionNineArrayList/src/com/stariq/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/ArrayList/src/com/stariq/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionNineArrayList/src/com/stariq/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/ArrayList/src/com/stariq/MobilePhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionNineArrays/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/Constuctors/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionNineArrays/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/ArrayList/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionNineArrays/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Arrays/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionNineArrays/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Constuctors/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionNineArrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Arrays/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionNineArrays/SectionNineArrays.iml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Exceptions/Exceptions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionNineArrays/src/com/stariq/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Arrays/src/com/stariq/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionNineAutoboxingAndUnboxing/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/Exceptions/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionNineAutoboxingAndUnboxing/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Arrays/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionNineAutoboxingAndUnboxing/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/AutoboxingAndUnboxing/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionNineAutoboxingAndUnboxing/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Exceptions/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionNineAutoboxingAndUnboxing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/AutoboxingAndUnboxing/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionNineAutoboxingAndUnboxing/SectionNineAutoboxingAndUnboxing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Generics/Generics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionNineAutoboxingAndUnboxing/src/com/stariq/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/AutoboxingAndUnboxing/src/com/stariq/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionNineAutoboxingAndUnboxing/src/com/stariq/Branch.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/AutoboxingAndUnboxing/src/com/stariq/Branch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionNineAutoboxingAndUnboxing/src/com/stariq/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/AutoboxingAndUnboxing/src/com/stariq/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionNineAutoboxingAndUnboxing/src/com/stariq/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/AutoboxingAndUnboxing/src/com/stariq/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionNineLinkedList/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/Generics/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionNineLinkedList/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/AutoboxingAndUnboxing/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionNineLinkedList/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/LinkedList/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionNineLinkedList/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Generics/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionNineLinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/LinkedList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionNineLinkedList/SectionNineLinkedList.iml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Inheritance/Inheritance.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionNineLinkedList/src/com/stariq/Album.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/LinkedList/src/com/stariq/Album.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionNineLinkedList/src/com/stariq/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/LinkedList/src/com/stariq/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionNineLinkedList/src/com/stariq/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/LinkedList/src/com/stariq/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionNineLinkedList/src/com/stariq/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/LinkedList/src/com/stariq/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionNineLinkedList/src/com/stariq/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/LinkedList/src/com/stariq/Song.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionSevenConstuctors/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/source/Constuctors/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionSevenConstuctors/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/Inheritance/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionSevenConstuctors/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Constuctors/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionSevenConstuctors/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Constuctors/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionSevenConstuctors/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Inheritance/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionSevenConstuctors/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Constuctors/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionSevenConstuctors/SectionSevenConstructors.iml" beforeDir="false" afterPath="$PROJECT_DIR$/source/InputOutput/InputOutput.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionSevenConstuctors/src/com/stariq/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Constuctors/src/com/stariq/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionSevenConstuctors/src/com/stariq/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Constuctors/src/com/stariq/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionSevenConstuctors/src/com/stariq/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Constuctors/src/com/stariq/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionSevenConstuctors/src/com/stariq/VipCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Constuctors/src/com/stariq/VipCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionSevenInheritance/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/InputOutput/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionSevenInheritance/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Inheritance/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionSevenInheritance/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Inheritance/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionSevenInheritance/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/InputOutput/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionSevenInheritance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Inheritance/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionSevenInheritance/SectionSevenInheritance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/source/LinkedList/LinkedList.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionSevenInheritance/src/com/stariq/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Inheritance/src/com/stariq/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionSevenInheritance/src/com/stariq/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Inheritance/src/com/stariq/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionSevenInheritance/src/com/stariq/Convertible.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Inheritance/src/com/stariq/Convertible.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionSevenInheritance/src/com/stariq/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Inheritance/src/com/stariq/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionSevenInheritance/src/com/stariq/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Inheritance/src/com/stariq/Fish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionSevenInheritance/src/com/stariq/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Inheritance/src/com/stariq/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionSevenInheritance/src/com/stariq/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Inheritance/src/com/stariq/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenAbstractClasses/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/LinkedList/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenAbstractClasses/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/LinkedList/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenAbstractClasses/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/AbstractClasses/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenAbstractClasses/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/LinkedList/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenAbstractClasses/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/AbstractClasses/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenAbstractClasses/SectionTenAbstractClasses.iml" beforeDir="false" afterPath="$PROJECT_DIR$/source/LinkedList/LinkedList.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenAbstractClasses/src/com/stariq/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/AbstractClasses/src/com/stariq/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenAbstractClasses/src/com/stariq/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/AbstractClasses/src/com/stariq/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenAbstractClasses/src/com/stariq/CanFly.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/AbstractClasses/src/com/stariq/CanFly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenAbstractClasses/src/com/stariq/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/AbstractClasses/src/com/stariq/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenAbstractClasses/src/com/stariq/ListItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/AbstractClasses/src/com/stariq/ListItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenAbstractClasses/src/com/stariq/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/AbstractClasses/src/com/stariq/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenAbstractClasses/src/com/stariq/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/AbstractClasses/src/com/stariq/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenAbstractClasses/src/com/stariq/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/AbstractClasses/src/com/stariq/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenAbstractClasses/src/com/stariq/NodeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/AbstractClasses/src/com/stariq/NodeList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenAbstractClasses/src/com/stariq/Penguin.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/AbstractClasses/src/com/stariq/Penguin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenAbstractClasses/src/com/stariq/Pigeon.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/AbstractClasses/src/com/stariq/Pigeon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenAbstractClasses/src/com/stariq/SearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/AbstractClasses/src/com/stariq/SearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenInnerClasses/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/LinkedList/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenInnerClasses/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/LinkedList/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenInnerClasses/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/InnerClasses/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenInnerClasses/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/LinkedList/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenInnerClasses/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/InnerClasses/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenInnerClasses/src/com/stariq/Album.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/InnerClasses/src/com/stariq/Album.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenInnerClasses/src/com/stariq/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/InnerClasses/src/com/stariq/Button.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenInnerClasses/src/com/stariq/Gearbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/InnerClasses/src/com/stariq/Gearbox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenInnerClasses/src/com/stariq/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/InnerClasses/src/com/stariq/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenInnerClasses/src/com/stariq/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/InnerClasses/src/com/stariq/Song.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenInnerClasses/untitled104.iml" beforeDir="false" afterPath="$PROJECT_DIR$/source/LinkedList/LinkedList.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenInterfaces/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/LinkedList/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenInterfaces/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/LinkedList/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenInterfaces/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Interfaces/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenInterfaces/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/LinkedList/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenInterfaces/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Interfaces/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenInterfaces/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Interfaces/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenInterfaces/SectionTenInterfaces.iml" beforeDir="false" afterPath="$PROJECT_DIR$/source/LinkedList/LinkedList.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenInterfaces/src/com/stariq/DeskPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Interfaces/src/com/stariq/DeskPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenInterfaces/src/com/stariq/Gearbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Interfaces/src/com/stariq/Gearbox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenInterfaces/src/com/stariq/ISaveable.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Interfaces/src/com/stariq/ISaveable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenInterfaces/src/com/stariq/ITelephone.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Interfaces/src/com/stariq/ITelephone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenInterfaces/src/com/stariq/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Interfaces/src/com/stariq/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenInterfaces/src/com/stariq/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Interfaces/src/com/stariq/MobilePhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenInterfaces/src/com/stariq/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Interfaces/src/com/stariq/Monster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTenInterfaces/src/com/stariq/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Interfaces/src/com/stariq/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenCollections/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/LinkedList/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenCollections/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/InputOutput/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenCollections/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Collections/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenCollections/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/LinkedList/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenCollections/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Collections/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenCollections/SectionThirteenCollections.iml" beforeDir="false" afterPath="$PROJECT_DIR$/source/LinkedList/LinkedList.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenCollections/src/com/stariq/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Collections/src/com/stariq/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenCollections/src/com/stariq/Theatre.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Collections/src/com/stariq/Theatre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenImmutableClass/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/LinkedList/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenImmutableClass/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/InputOutput/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenImmutableClass/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/ImmutableClass/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenImmutableClass/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/LinkedList/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenImmutableClass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/ImmutableClass/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenImmutableClass/SectionThirteenImmutableClass.iml" beforeDir="false" afterPath="$PROJECT_DIR$/source/LinkedList/LinkedList.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenImmutableClass/src/com/stariq/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/ImmutableClass/src/com/stariq/Location.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenImmutableClass/src/com/stariq/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/ImmutableClass/src/com/stariq/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenMap/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/Map/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenMap/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Map/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenMap/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Map/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenMap/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Map/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenMap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Map/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenMap/SectionThirteenMap.iml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Map/Map.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenMap/pic/AdventureGameMap.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/source/Map/pic/AdventureGameMap.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenMap/src/com/stariq/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Map/src/com/stariq/Location.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenMap/src/com/stariq/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Map/src/com/stariq/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenMap/src/com/stariq/MapProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Map/src/com/stariq/MapProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenSets/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/Sets/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenSets/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Sets/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenSets/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Sets/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenSets/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Sets/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenSets/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Sets/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenSets/SectionThirteenSets.iml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Sets/Sets.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenSets/pic/HashCode.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/source/Sets/pic/HashCode.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenSets/src/com/stariq/Challenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Sets/src/com/stariq/Challenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenSets/src/com/stariq/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Sets/src/com/stariq/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenSets/src/com/stariq/DogMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Sets/src/com/stariq/DogMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenSets/src/com/stariq/DwarfPlanet.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Sets/src/com/stariq/DwarfPlanet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenSets/src/com/stariq/HeavenlyBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Sets/src/com/stariq/HeavenlyBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenSets/src/com/stariq/Labrador.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Sets/src/com/stariq/Labrador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenSets/src/com/stariq/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Sets/src/com/stariq/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenSets/src/com/stariq/Moon.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Sets/src/com/stariq/Moon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenSets/src/com/stariq/Planet.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Sets/src/com/stariq/Planet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenSets/src/com/stariq/SetChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Sets/src/com/stariq/SetChallenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenSets/src/com/stariq/SetMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Sets/src/com/stariq/SetMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenSortedCollections/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/SortedCollections/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenSortedCollections/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/SortedCollections/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenSortedCollections/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/SortedCollections/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenSortedCollections/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/SortedCollections/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenSortedCollections/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/SortedCollections/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenSortedCollections/SectionThirteenSortedCollections.iml" beforeDir="false" afterPath="$PROJECT_DIR$/source/SortedCollections/SortedCollections.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenSortedCollections/src/com/stariq/Basket.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/SortedCollections/src/com/stariq/Basket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenSortedCollections/src/com/stariq/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/SortedCollections/src/com/stariq/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenSortedCollections/src/com/stariq/MainChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/SortedCollections/src/com/stariq/MainChallenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenSortedCollections/src/com/stariq/StockItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/SortedCollections/src/com/stariq/StockItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionThirteenSortedCollections/src/com/stariq/StockList.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/SortedCollections/src/com/stariq/StockList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelveAccessModifiers/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/SortedCollections/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelveAccessModifiers/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/SortedCollections/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelveAccessModifiers/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/AccessModifiers/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelveAccessModifiers/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/SortedCollections/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelveAccessModifiers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/AccessModifiers/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelveAccessModifiers/SectionTwelveAccessModifiers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/source/SortedCollections/SortedCollections.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelveAccessModifiers/src/com/stariq/Accessible.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/AccessModifiers/src/com/stariq/Accessible.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelveAccessModifiers/src/com/stariq/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/AccessModifiers/src/com/stariq/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelveAccessModifiers/src/com/stariq/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/AccessModifiers/src/com/stariq/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelvePackages/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/SortedCollections/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelvePackages/.idea/libraries/PackageDemo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Packages/.idea/libraries/PackageDemo.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelvePackages/.idea/libraries/SeriesPackage.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Packages/.idea/libraries/SeriesPackage.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelvePackages/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/SortedCollections/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelvePackages/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Packages/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelvePackages/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/SortedCollections/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelvePackages/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Packages/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelvePackages/SectionTwelvePackages.iml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Packages/Packages.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelvePackages/lib/PackageDemo.jar" beforeDir="false" afterPath="$PROJECT_DIR$/source/Packages/lib/PackageDemo.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelvePackages/lib/SeriesPackage.jar" beforeDir="false" afterPath="$PROJECT_DIR$/source/Packages/lib/SeriesPackage.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelvePackages/out/production/SectionTwelvePackages/com/stariq/SeriesPackage" beforeDir="false" afterPath="$PROJECT_DIR$/source/Packages/out/production/SectionTwelvePackages/com/stariq/SeriesPackage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelvePackages/src/com/stariq/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Packages/src/com/stariq/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelvePackages/src/com/stariq/MyWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Packages/src/com/stariq/MyWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelvePackages/src/com/stariq/SeriesPackage" beforeDir="false" afterPath="$PROJECT_DIR$/source/Packages/src/com/stariq/SeriesPackage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelveScope/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/SortedCollections/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelveScope/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/SortedCollections/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelveScope/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Scope/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelveScope/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/SortedCollections/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelveScope/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Scope/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelveScope/SectionTwelveScope.iml" beforeDir="false" afterPath="$PROJECT_DIR$/source/SortedCollections/SortedCollections.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelveScope/src/com/stariq/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Scope/src/com/stariq/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelveScope/src/com/stariq/ScopeCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Scope/src/com/stariq/ScopeCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelveScope/src/com/stariq/X.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Scope/src/com/stariq/X.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelveStaticAndFinal/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/source/StaticAndFinal/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelveStaticAndFinal/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/StaticAndFinal/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelveStaticAndFinal/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/StaticAndFinal/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelveStaticAndFinal/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/StaticAndFinal/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelveStaticAndFinal/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/StaticAndFinal/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelveStaticAndFinal/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/StaticAndFinal/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelveStaticAndFinal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/StaticAndFinal/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelveStaticAndFinal/SectionTwelveStaticAndFinal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/source/StaticAndFinal/StaticAndFinal.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelveStaticAndFinal/src/com/stariq/ExtendedPassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/StaticAndFinal/src/com/stariq/ExtendedPassword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelveStaticAndFinal/src/com/stariq/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/StaticAndFinal/src/com/stariq/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelveStaticAndFinal/src/com/stariq/Password.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/StaticAndFinal/src/com/stariq/Password.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelveStaticAndFinal/src/com/stariq/SIBTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/StaticAndFinal/src/com/stariq/SIBTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelveStaticAndFinal/src/com/stariq/SomeClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/StaticAndFinal/src/com/stariq/SomeClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionTwelveStaticAndFinal/src/com/stariq/StaticTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/StaticAndFinal/src/com/stariq/StaticTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -82,13 +330,151 @@
               <item name="CompleteJavaMasterclass" type="b2602c69:ProjectViewProjectNode" />
               <item name="CompleteJavaMasterclass" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="AbstractClasses" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CompleteJavaMasterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompleteJavaMasterclass" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="AccessModifiers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CompleteJavaMasterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompleteJavaMasterclass" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="ArrayList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CompleteJavaMasterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompleteJavaMasterclass" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="Arrays" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CompleteJavaMasterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompleteJavaMasterclass" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="AutoboxingAndUnboxing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CompleteJavaMasterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompleteJavaMasterclass" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="Collections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CompleteJavaMasterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompleteJavaMasterclass" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="Composition" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CompleteJavaMasterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompleteJavaMasterclass" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="Constuctors" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CompleteJavaMasterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompleteJavaMasterclass" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="Encapsulation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CompleteJavaMasterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompleteJavaMasterclass" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="Exceptions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CompleteJavaMasterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompleteJavaMasterclass" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="Generics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CompleteJavaMasterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompleteJavaMasterclass" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="ImmutableClass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CompleteJavaMasterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompleteJavaMasterclass" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="Inheritance" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CompleteJavaMasterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompleteJavaMasterclass" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="InnerClasses" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CompleteJavaMasterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompleteJavaMasterclass" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="InputOutput" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CompleteJavaMasterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompleteJavaMasterclass" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="Interfaces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CompleteJavaMasterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompleteJavaMasterclass" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CompleteJavaMasterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompleteJavaMasterclass" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="Map" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CompleteJavaMasterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompleteJavaMasterclass" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="OOP" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CompleteJavaMasterclass" type="b2602c69:ProjectViewProjectNode" />
               <item name="CompleteJavaMasterclass" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="Packages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CompleteJavaMasterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompleteJavaMasterclass" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="Polymorphism" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CompleteJavaMasterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompleteJavaMasterclass" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="Scope" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CompleteJavaMasterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompleteJavaMasterclass" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="Sets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CompleteJavaMasterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompleteJavaMasterclass" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="SortedCollections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CompleteJavaMasterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompleteJavaMasterclass" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="StaticAndFinal" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
