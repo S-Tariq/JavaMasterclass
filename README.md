@@ -11,7 +11,7 @@
 * OOP - Classes, Constructors and Inheritance
 * OOP - Composition, Encapsulation and Polymorphism
 * Arrays, Java inbuilt Lists, Autoboxing and Unboxing
-* Inner & Abstract Classes and Interfaces
+* Inner and Abstract Classes & Interfaces
 * Java Generics
 * Naming Conventions and Packages & static and final keywords
 * Java Collections
