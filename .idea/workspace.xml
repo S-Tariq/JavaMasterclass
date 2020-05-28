@@ -2,40 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f30a98f2-72f1-413c-b8aa-248a7f5ca561" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/.idea/description.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/.idea/project-template.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/SectionEightComposition.iml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/Composition.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/src/com/stariq/Bed.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/src/com/stariq/Bed.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/src/com/stariq/Bedroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/src/com/stariq/Bedroom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/src/com/stariq/Case.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/src/com/stariq/Case.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/src/com/stariq/Ceiling.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/src/com/stariq/Ceiling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/src/com/stariq/Cupboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/src/com/stariq/Cupboard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/src/com/stariq/Dimensions.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/src/com/stariq/Dimensions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/src/com/stariq/Dresser.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/src/com/stariq/Dresser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/src/com/stariq/Kitchen.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/src/com/stariq/Kitchen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/src/com/stariq/Lamp.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/src/com/stariq/Lamp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/src/com/stariq/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/src/com/stariq/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/src/com/stariq/Monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/src/com/stariq/Monitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/src/com/stariq/Motherboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/src/com/stariq/Motherboard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/src/com/stariq/Oven.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/src/com/stariq/Oven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/src/com/stariq/PC.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/src/com/stariq/PC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/src/com/stariq/Resolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/src/com/stariq/Resolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/src/com/stariq/Sink.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/src/com/stariq/Sink.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightComposition/src/com/stariq/Wall.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Composition/src/com/stariq/Wall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightEncapsulation/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/Encapsulation/.idea/description.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightEncapsulation/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Encapsulation/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightEncapsulation/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Encapsulation/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightEncapsulation/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Encapsulation/.idea/project-template.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightEncapsulation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Encapsulation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightEncapsulation/SectionEightEncapsulation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Encapsulation/Encapsulation.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightEncapsulation/src/com/stariq/EnhancedPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Encapsulation/src/com/stariq/EnhancedPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightEncapsulation/src/com/stariq/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Encapsulation/src/com/stariq/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightEncapsulation/src/com/stariq/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Encapsulation/src/com/stariq/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/SectionEightEncapsulation/src/com/stariq/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Encapsulation/src/com/stariq/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightOOP/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/OOP/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightOOP/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/OOP/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightOOP/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/OOP/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightOOP/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/OOP/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightOOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/OOP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightOOP/SectionEightOOP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightOOP/SectionEightOOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/source/OOP/OOP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightOOP/src/com/stariq/DeluxeBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/OOP/src/com/stariq/DeluxeBurger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightOOP/src/com/stariq/Hamburger.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/OOP/src/com/stariq/Hamburger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightOOP/src/com/stariq/HealthyBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/OOP/src/com/stariq/HealthyBurger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightOOP/src/com/stariq/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/OOP/src/com/stariq/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightPolymorphism/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/Polymorphism/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightPolymorphism/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Polymorphism/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightPolymorphism/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Polymorphism/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightPolymorphism/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Polymorphism/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightPolymorphism/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Polymorphism/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightPolymorphism/SectionEightPolymorphism.iml" beforeDir="false" afterPath="$PROJECT_DIR$/source/Polymorphism/Polymorphism.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightPolymorphism/src/com/stariq/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Polymorphism/src/com/stariq/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightPolymorphism/src/com/stariq/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Polymorphism/src/com/stariq/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/SectionEightPolymorphism/src/com/stariq/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/Polymorphism/src/com/stariq/Movie.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -85,13 +71,24 @@
             <path>
               <item name="CompleteJavaMasterclass" type="b2602c69:ProjectViewProjectNode" />
               <item name="CompleteJavaMasterclass" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CompleteJavaMasterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompleteJavaMasterclass" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CompleteJavaMasterclass" type="b2602c69:ProjectViewProjectNode" />
               <item name="CompleteJavaMasterclass" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="SectionTwelveStaticAndFinal" type="462c0819:PsiDirectoryNode" />
+              <item name="OOP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CompleteJavaMasterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompleteJavaMasterclass" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="Polymorphism" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -218,7 +215,78 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JavaMasterclass</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
             <option name="proportions">
