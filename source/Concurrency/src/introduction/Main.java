@@ -1,8 +1,8 @@
-package com.stariq;
+package introduction;
 
-import static com.stariq.ThreadColour.ANSI_GREEN;
-import static com.stariq.ThreadColour.ANSI_PURPLE;
-import static com.stariq.ThreadColour.ANSI_RED;
+import static introduction.ThreadColour.ANSI_GREEN;
+import static introduction.ThreadColour.ANSI_PURPLE;
+import static introduction.ThreadColour.ANSI_RED;
 
 public class Main {
 

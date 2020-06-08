@@ -1,4 +1,4 @@
-package com.stariq;
+package introduction;
 
 public class ThreadColour {
 

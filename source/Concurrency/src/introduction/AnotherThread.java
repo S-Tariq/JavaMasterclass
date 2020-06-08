@@ -1,6 +1,6 @@
-package com.stariq;
+package introduction;
 
-import static com.stariq.ThreadColour.ANSI_BLUE;
+import static introduction.ThreadColour.ANSI_BLUE;
 
 public class AnotherThread extends Thread {
 

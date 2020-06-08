@@ -1,6 +1,6 @@
-package com.stariq;
+package introduction;
 
-import static com.stariq.ThreadColour.ANSI_RED;
+import static introduction.ThreadColour.ANSI_RED;
 
 public class MyRunnable implements Runnable{
 
