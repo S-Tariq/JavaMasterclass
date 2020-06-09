@@ -4,23 +4,36 @@
 * Windows
 * IntelliJ IDEA
 
-## Course Content 
-* Variables, Datatypes and Operators
-* Expressions, Statements, Code blocks and Methods
-* Control Flow Statements
-* OOP - Classes, Constructors and Inheritance
-* OOP - Composition, Encapsulation and Polymorphism
-* Arrays, Java inbuilt Lists, Autoboxing and Unboxing
-* Inner and Abstract Classes & Interfaces
-* Java Generics
-* Naming Conventions and Packages & static and final keywords
-* Java Collections
-* JavaFX 
-* Basic Input & Output including java.util 
-* Concurrency in Java 
-* Lambda Expressions 
-* Regular Expressions 
-* Debugging and Unit Testing 
-* Databases 
-* Java Networking Programming 
-* Java 9 Module System 
+## Content 
+### Section 1:
+* Access Modifiers
+* Arrays
+* Autoboxing & Unboxing
+* Constructors
+* Immutable Class
+* Inner Classes
+* Packages
+* Scope
+* Static & Final
+### Section 2:
+* Abstract Classes
+* Composition
+* Encapsulation
+* Inheritance
+* Interfaces
+* OOP
+* Polymorphism
+### Section 3:
+* ArrayList
+* Collections
+* LinkedList
+* Map
+* Sets
+* Sorted Collections
+### Section 4:
+* Exceptions
+* Generics
+* Input & Output
+### Section 5:
+* Concurrency
+* Thread Variables
