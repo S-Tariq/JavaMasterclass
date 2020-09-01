@@ -1,4 +1,4 @@
-package generics;
+package stariq.generics;
 
 // Challenge given:
 // ArrayList<Team> teams;

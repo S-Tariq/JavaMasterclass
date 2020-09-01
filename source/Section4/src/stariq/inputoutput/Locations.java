@@ -1,4 +1,4 @@
-package inputoutput;
+package stariq.inputoutput;
 
 import java.io.FileWriter;
 import java.io.IOException;

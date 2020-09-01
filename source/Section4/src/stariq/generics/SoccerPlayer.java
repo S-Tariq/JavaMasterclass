@@ -1,4 +1,4 @@
-package generics;
+package stariq.generics;
 
 public class SoccerPlayer extends Player {
 

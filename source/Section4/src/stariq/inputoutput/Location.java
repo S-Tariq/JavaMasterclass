@@ -1,4 +1,4 @@
-package inputoutput;
+package stariq.inputoutput;
 
 import java.util.HashMap;
 import java.util.Map;

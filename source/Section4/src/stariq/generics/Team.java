@@ -1,4 +1,4 @@
-package generics;
+package stariq.generics;
 
 import java.util.ArrayList;
 

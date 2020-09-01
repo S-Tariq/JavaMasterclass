@@ -1,4 +1,4 @@
-package exceptions;
+package stariq.exceptions;
 
 import java.util.InputMismatchException;
 import java.util.NoSuchElementException;
@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Example {
 
     public static void main(String[] args) {
-        // This can be done without throwing the exceptions in the divide() method.
+        // This can be done without throwing the stariq.exceptions in the divide() method.
         try {
             int result = divide();
             System.out.println(result);
