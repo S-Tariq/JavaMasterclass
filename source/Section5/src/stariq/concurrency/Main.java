@@ -1,8 +1,8 @@
-package concurrency;
+package stariq.concurrency;
 
-import static concurrency.ThreadColour.ANSI_GREEN;
-import static concurrency.ThreadColour.ANSI_PURPLE;
-import static concurrency.ThreadColour.ANSI_RED;
+import static stariq.concurrency.ThreadColour.ANSI_GREEN;
+import static stariq.concurrency.ThreadColour.ANSI_PURPLE;
+import static stariq.concurrency.ThreadColour.ANSI_RED;
 
 public class Main {
 

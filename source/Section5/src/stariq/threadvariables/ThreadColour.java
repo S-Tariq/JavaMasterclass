@@ -1,4 +1,4 @@
-package threadvariables;
+package stariq.threadvariables;
 
 public class ThreadColour {
 

@@ -1,6 +1,6 @@
-package concurrency;
+package stariq.concurrency;
 
-import static concurrency.ThreadColour.ANSI_RED;
+import static stariq.concurrency.ThreadColour.ANSI_RED;
 
 public class MyRunnable implements Runnable{
 

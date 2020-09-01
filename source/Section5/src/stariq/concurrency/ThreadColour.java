@@ -1,4 +1,4 @@
-package concurrency;
+package stariq.concurrency;
 
 public class ThreadColour {
 

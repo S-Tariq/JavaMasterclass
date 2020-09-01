@@ -1,6 +1,6 @@
-package concurrency;
+package stariq.concurrency;
 
-import static concurrency.ThreadColour.ANSI_BLUE;
+import static stariq.concurrency.ThreadColour.ANSI_BLUE;
 
 public class AnotherThread extends Thread {
 
