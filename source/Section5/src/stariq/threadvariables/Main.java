@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[] args) {
 
         Countdown countdown = new Countdown();
+        //Countdown countdown2 = new Countdown();
 
         CountdownThread t1 = new CountdownThread((countdown));
         t1.setName("Thread 1");
@@ -19,8 +20,9 @@ public class Main {
 
 class Countdown {
 
+    // Instance variable i is shared between thread 1 and 2 declared above.
     private int i;
-    public void doCountdown() {
+    public synchronized void doCountdown() {
         String colour;
 
         switch(Thread.currentThread().getName()) {
@@ -34,6 +36,7 @@ class Countdown {
                 colour = ThreadColour.ANSI_GREEN;
         }
 
+        // Local variable i needs to be declared here so the threads have their own copy.
         for(i = 10; i > 0; i--) {
             System.out.println(colour + Thread.currentThread().getName() + ": i = " + i);
         }
