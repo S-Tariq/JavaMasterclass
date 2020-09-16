@@ -22,7 +22,7 @@ class Countdown {
 
     // Instance variable i is shared between thread 1 and 2 declared above.
     private int i;
-    public synchronized void doCountdown() {
+    public void doCountdown() {
         String colour;
 
         switch(Thread.currentThread().getName()) {
@@ -37,8 +37,10 @@ class Countdown {
         }
 
         // Local variable i needs to be declared here so the threads have their own copy.
-        for(i = 10; i > 0; i--) {
-            System.out.println(colour + Thread.currentThread().getName() + ": i = " + i);
+        synchronized(this) {
+            for (i = 10; i > 0; i--) {
+                System.out.println(colour + Thread.currentThread().getName() + ": i = " + i);
+            }
         }
     }
 }
